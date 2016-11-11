@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "newphoto"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "newphoto"
 
   s.description  = <<-DESC
